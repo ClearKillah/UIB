@@ -1,4 +1,4 @@
-# Управление информационной безопасностью
+# 🛡️Управление информационной безопасностью
 ## Выполнил: Козлов Филипп Сергеевич
 ## Группа: ББМО-02-23
 [Практическая работа 1](https://docs.google.com/document/d/1zHpLBlc3JzsYtKeRu7xm94DK7GVI8g6U5tS0odOQlzk/edit?usp=sharing)
@@ -14,6 +14,6 @@
 
 [Практическая работа 6](https://docs.google.com/document/d/1-ZpTuAnG0grOWwYdTHGUfJI0yZeJb7kmL1vgHePDkMw/edit?usp=sharing)
 
-[Практическая работа 7]()
+[Практическая работа 7](https://docs.google.com/document/d/1nZgVLjwGFGZJCf3zYp3B6r6nHmKJddY1yoA23RqWCys/edit?usp=sharing)
 
-[Практическая работа 8]()
+[Практическая работа 8](https://docs.google.com/document/d/1Yj7uCsJzwmTW1dO51SNOADjbGH4z80ITzoJnzNFnEDM/edit?usp=sharing)
